@@ -141,3 +141,6 @@ Enhanced skills in data transformation and financial analysis
 
 📘 Dataset: Bank loan data (Excel / CSV format
     Open source Data set .
+
+🖼️ Screenshot / Demo
+Show that the dashboard look like - [
