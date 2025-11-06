@@ -143,4 +143,5 @@ Enhanced skills in data transformation and financial analysis
     Open source Data set .
 
 🖼️ Screenshot / Demo
-Show that the dashboard look like - [
+Show that the dashboard look like 
+[https://github.com/Jyotigouda99-Patil/Bank_Loan_Report-Summery-Overview-Detail_Dashboard/blob/main/BANK%20LAON%20REPORT.pbit]
